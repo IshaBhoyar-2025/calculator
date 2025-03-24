@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Home } from "./_component/Home"
 
 export default function HomePage() {
