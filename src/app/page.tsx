@@ -8,7 +8,7 @@ export default function HomePage() {
 
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-      <p>.... Design by &copy; Isha 2025....</p>
+      <p>.. Design by &copy; <a href="https://portfolio-isha-pi.vercel.app/" target="_blank" rel="noopener noreferrer">Isha Bhoyar 2025</a> ..</p>
       </footer>
     </div>
   );
